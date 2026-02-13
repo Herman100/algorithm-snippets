@@ -1,0 +1,19 @@
+{
+  "name": "algo-snippets",
+  "version": "1.0.0",
+  "description": "algorithms snippets for public usage",
+  "keywords": [
+    "testing",
+    "code"
+  ],
+  "license": "ISC",
+  "author": "Herman Kwamebour",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
